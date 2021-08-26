@@ -1,8 +1,8 @@
-package com.studiogh.justotestapp.view.activity
+package com.studiogh.randomuser.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.studiogh.justotestapp.R
+import com.studiogh.randomuser.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?)  {

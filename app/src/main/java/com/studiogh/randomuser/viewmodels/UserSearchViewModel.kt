@@ -1,10 +1,10 @@
-package com.studiogh.justotestapp.viewmodels
+package com.studiogh.randomuser.viewmodels
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import com.studiogh.justotestapp.model.RandomUserResponse
-import com.studiogh.justotestapp.repostories.UserRepository
+import com.studiogh.randomuser.model.RandomUserResponse
+import com.studiogh.randomuser.repostories.UserRepository
 
 
 class UserSearchViewModel(application: Application) :

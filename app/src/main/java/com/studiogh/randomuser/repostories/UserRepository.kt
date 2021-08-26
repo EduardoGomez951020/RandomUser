@@ -1,9 +1,9 @@
-package com.studiogh.justotestapp.repostories
+package com.studiogh.randomuser.repostories
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.studiogh.justotestapp.model.RandomUserResponse
-import com.studiogh.justotestapp.network.Request
+import com.studiogh.randomuser.model.RandomUserResponse
+import com.studiogh.randomuser.network.Request
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Call

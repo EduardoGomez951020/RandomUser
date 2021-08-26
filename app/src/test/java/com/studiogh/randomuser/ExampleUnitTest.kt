@@ -1,4 +1,4 @@
-package com.studiogh.justotestapp
+package com.studiogh.randomuser
 
 import org.junit.Test
 

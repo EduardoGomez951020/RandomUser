@@ -1,7 +1,7 @@
-package com.studiogh.justotestapp.network
+package com.studiogh.randomuser.network
 
 
-import com.studiogh.justotestapp.model.RandomUserResponse
+import com.studiogh.randomuser.model.RandomUserResponse
 import retrofit2.Call
 import retrofit2.http.GET
 

@@ -1,4 +1,4 @@
-package com.studiogh.justotestapp.model
+package com.studiogh.randomuser.model
 
 import com.google.gson.annotations.Expose
 

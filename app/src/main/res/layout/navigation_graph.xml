@@ -9,7 +9,7 @@
 
     <fragment
         android:id="@+id/userSearchFragment"
-        android:name="com.studiogh.justotestapp.view.fragment.UserSearchFragment"
+        android:name="com.studiogh.randomuser.view.fragment.UserSearchFragment"
         android:label="fragment_usersearch"
         tools:layout="@layout/fragment_user_search" />
 </navigation>

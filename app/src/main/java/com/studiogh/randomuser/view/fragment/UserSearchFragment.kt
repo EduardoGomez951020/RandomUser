@@ -1,8 +1,7 @@
-package com.studiogh.justotestapp.view.fragment
+package com.studiogh.randomuser.view.fragment
 
 import android.content.res.Resources
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -18,11 +17,11 @@ import androidx.core.view.ViewCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import com.bumptech.glide.Glide
-import com.studiogh.justotestapp.R
-import com.studiogh.justotestapp.model.Name
-import com.studiogh.justotestapp.model.Picture
-import com.studiogh.justotestapp.model.Results
-import com.studiogh.justotestapp.viewmodels.UserSearchViewModel
+import com.studiogh.randomuser.R
+import com.studiogh.randomuser.model.Name
+import com.studiogh.randomuser.model.Picture
+import com.studiogh.randomuser.model.Results
+import com.studiogh.randomuser.viewmodels.UserSearchViewModel
 
 
 class UserSearchFragment : Fragment() {
