@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/userSearchFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <fragment
+        android:id="@+id/userSearchFragment"
+        android:name="com.studiogh.justotestapp.view.fragment.UserSearchFragment"
+        android:label="fragment_usersearch"
+        tools:layout="@layout/fragment_user_search" />
+</navigation>
